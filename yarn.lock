@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+api-response-json@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/api-response-json/-/api-response-json-1.1.2.tgz#7aa31c03358a5479be4da06a4cdc9485bcc8971c"
+  integrity sha512-3zjjKI17D7bWvQzvqrfOKe63HxuN1yJ9T6vtQMW0r77soYkO4AkWTfqg0Y7a1d9hEI7W7gpQ3h0N+wRRa6E7bw==
+
 encoding@^0.1.11:
   version "0.1.12"
   resolved "https://registry.yarnpkg.com/encoding/-/encoding-0.1.12.tgz#538b66f3ee62cd1ab51ec323829d1f9480c74beb"
