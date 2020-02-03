@@ -1,0 +1,13 @@
+{
+  "name": "api-request-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/backend-code/api-request-firebase.git",
+  "author": "Nutthapat Piasangka <n.devs260340@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^16.12.0"
+  }
+}
